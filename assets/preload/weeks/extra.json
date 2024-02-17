@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"midnight",
+			"prange",
+			[
+				120,
+				80,
+				33
+			]
+		],
+		[
+			"terminated",
+			"termin",
+			[
+				40,
+				40,
+				53
+			]
+		],
+		[
+			"lurking",
+			"lurker",
+			[
+				80,
+				0,
+				113
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Extras Songs",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

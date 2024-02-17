@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"showtime",
+			"cake",
+			[
+				215,
+				95,
+				0
+			]
+		],
+		[
+			"go-fish",
+			"oldman",
+			[
+				240,
+				73,
+				93
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Extras Songs",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

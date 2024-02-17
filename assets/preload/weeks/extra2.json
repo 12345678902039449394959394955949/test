@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"blubber",
+			"jones",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"performance",
+			"spring",
+			[
+				226,
+				173,
+				93
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Extras Songs",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

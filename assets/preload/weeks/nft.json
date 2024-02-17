@@ -1,0 +1,41 @@
+{
+	"songs": [
+		[
+			"man",
+			"ngt",
+			[
+				255,
+				255,
+				73
+			]
+		],
+		[
+			"cashmoney",
+			"mb",
+			[
+				20,
+				40,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "nft",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "willyrex",
+	"weekName": "weeknft",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

@@ -1,0 +1,68 @@
+{
+	"songs": [
+		[
+			"beatbox",
+			"abdul",
+			[
+				255,
+				255,
+				120
+			]
+		],
+		[
+			"watchful",
+			"fredplush",
+			[
+				255,
+				215,
+				135
+			]
+		],
+		[
+			"faznews",
+			"ma",
+			[
+				146,
+				193,
+				155
+			]
+		],
+		[
+        "restless",
+			"child",
+			[
+				255,
+				255,
+				240
+			]
+		],
+		[
+			"miller",
+			"henmiller",
+			[
+				106,
+				60,
+				113
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Extras Songs",
+	"weekName": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

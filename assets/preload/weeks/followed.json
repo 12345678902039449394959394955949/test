@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"followed",
+			"followed",
+			[
+				20,
+				0,
+				33
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "followed",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "YOU CAN'T ESCAPE",
+	"weekName": "weekfollowed",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
