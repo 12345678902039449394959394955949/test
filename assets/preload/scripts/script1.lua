@@ -1,0 +1,11 @@
+function onGameOverStart()
+setProperty('health.visible', false)
+setProperty('star1.visible', false)
+setProperty('star2.visible', false)
+setProperty('star3.visible', false)
+setProperty('star4.visible', false)
+setProperty('star5.visible', false)
+setProperty('pizza1.visible', false)
+setProperty('pizza2.visible', false)
+setProperty('time.visible', false)
+end
