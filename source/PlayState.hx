@@ -1209,7 +1209,8 @@ class PlayState extends MusicBeatState
 				luaArray.push(new FunkinLua(Asset2File.getPath(scriptPath)));
 		}
 		#end
-
+			
+                #if LUA_ALLOWED
 		var daScripts:Array<String> = ['script5', 'script6', 'script7', 'script8', 'script9'];   
 		for (script in daScripts) {
 		var scriptPath:String = Paths.getPreloadPath('data/' + Paths.formatToSongPath(SONG.song) + '/' + script + '.lua');
