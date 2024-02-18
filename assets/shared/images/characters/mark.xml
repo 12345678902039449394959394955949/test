@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="mark.png">
+	
+	
+	<SubTexture name="mark down0000" x="5" y="5" width="276" height="203" />
+	<SubTexture name="mark down0001" x="5" y="5" width="276" height="203" />
+	<SubTexture name="mark down0002" x="286" y="5" width="276" height="203" />
+	<SubTexture name="mark down0003" x="286" y="5" width="276" height="203" />
+	<SubTexture name="mark down0004" x="286" y="5" width="276" height="203" />
+	<SubTexture name="mark down0005" x="286" y="5" width="276" height="203" />
+	<SubTexture name="mark down alt0000" x="286" y="630" width="276" height="203" />
+	<SubTexture name="mark down alt0001" x="286" y="630" width="276" height="203" />
+	<SubTexture name="mark down alt0002" x="567" y="630" width="276" height="203" />
+	<SubTexture name="mark down alt0003" x="567" y="630" width="276" height="203" />
+	<SubTexture name="mark down alt0004" x="567" y="630" width="276" height="203" />
+	<SubTexture name="mark down alt0005" x="567" y="630" width="276" height="203" />
+	<SubTexture name="mark down miss0000" x="5" y="5" width="276" height="203" />
+	<SubTexture name="mark down miss0001" x="5" y="5" width="276" height="203" />
+	<SubTexture name="mark down miss0002" x="567" y="5" width="276" height="203" />
+	<SubTexture name="mark down miss0003" x="567" y="5" width="276" height="203" />
+	<SubTexture name="mark down miss0004" x="848" y="5" width="276" height="203" />
+	<SubTexture name="mark down miss0005" x="848" y="5" width="276" height="203" />
+	<SubTexture name="mark idle0000" x="1129" y="5" width="276" height="203" />
+	<SubTexture name="mark idle0001" x="1129" y="5" width="276" height="203" />
+	<SubTexture name="mark idle0002" x="1410" y="5" width="276" height="203" />
+	<SubTexture name="mark idle0003" x="1410" y="5" width="276" height="203" />
+	<SubTexture name="mark idle0004" x="1691" y="5" width="276" height="203" />
+	<SubTexture name="mark idle0005" x="1691" y="5" width="276" height="203" />
+	<SubTexture name="mark idle0006" x="5" y="213" width="276" height="203" />
+	<SubTexture name="mark idle0007" x="5" y="213" width="276" height="203" />
+	<SubTexture name="mark idle0008" x="286" y="213" width="276" height="203" />
+	<SubTexture name="mark idle0009" x="286" y="213" width="276" height="203" />
+	<SubTexture name="mark idle0010" x="286" y="213" width="276" height="203" />
+	<SubTexture name="mark idle0011" x="567" y="213" width="276" height="203" />
+	<SubTexture name="mark idle0012" x="567" y="213" width="276" height="203" />
+	<SubTexture name="mark idle0013" x="567" y="213" width="276" height="203" />
+	<SubTexture name="mark idle alt0000" x="848" y="630" width="276" height="203" />
+	<SubTexture name="mark idle alt0001" x="848" y="630" width="276" height="203" />
+	<SubTexture name="mark idle alt0002" x="1129" y="630" width="276" height="203" />
+	<SubTexture name="mark idle alt0003" x="1129" y="630" width="276" height="203" />
+	<SubTexture name="mark idle alt0004" x="1410" y="630" width="276" height="203" />
+	<SubTexture name="mark idle alt0005" x="1410" y="630" width="276" height="203" />
+	<SubTexture name="mark idle alt0006" x="1691" y="630" width="276" height="203" />
+	<SubTexture name="mark idle alt0007" x="1691" y="630" width="276" height="203" />
+	<SubTexture name="mark idle alt0008" x="5" y="839" width="276" height="203" />
+	<SubTexture name="mark idle alt0009" x="5" y="839" width="276" height="203" />
+	<SubTexture name="mark idle alt0010" x="5" y="839" width="276" height="203" />
+	<SubTexture name="mark idle alt0011" x="5" y="839" width="276" height="203" />
+	<SubTexture name="mark idle alt0012" x="5" y="839" width="276" height="203" />
+	<SubTexture name="mark idle alt0013" x="5" y="839" width="276" height="203" />
+	<SubTexture name="mark left0000" x="848" y="213" width="276" height="203" />
+	<SubTexture name="mark left0001" x="848" y="213" width="276" height="203" />
+	<SubTexture name="mark left0002" x="1129" y="213" width="276" height="203" />
+	<SubTexture name="mark left0003" x="1129" y="213" width="276" height="203" />
+	<SubTexture name="mark left0004" x="1129" y="213" width="276" height="203" />
+	<SubTexture name="mark left0005" x="1129" y="213" width="276" height="203" />
+	<SubTexture name="mark left alt0000" x="286" y="839" width="276" height="203" />
+	<SubTexture name="mark left alt0001" x="286" y="839" width="276" height="203" />
+	<SubTexture name="mark left alt0002" x="567" y="839" width="276" height="203" />
+	<SubTexture name="mark left alt0003" x="567" y="839" width="276" height="203" />
+	<SubTexture name="mark left alt0004" x="567" y="839" width="276" height="203" />
+	<SubTexture name="mark left alt0005" x="567" y="839" width="276" height="203" />
+	<SubTexture name="mark left miss0000" x="848" y="213" width="276" height="203" />
+	<SubTexture name="mark left miss0001" x="848" y="213" width="276" height="203" />
+	<SubTexture name="mark left miss0002" x="1410" y="213" width="276" height="203" />
+	<SubTexture name="mark left miss0003" x="1410" y="213" width="276" height="203" />
+	<SubTexture name="mark left miss0004" x="1691" y="213" width="276" height="203" />
+	<SubTexture name="mark left miss0005" x="1691" y="213" width="276" height="203" />
+	<SubTexture name="mark right0000" x="5" y="422" width="276" height="203" />
+	<SubTexture name="mark right0001" x="5" y="422" width="276" height="203" />
+	<SubTexture name="mark right0002" x="286" y="422" width="276" height="203" />
+	<SubTexture name="mark right0003" x="286" y="422" width="276" height="203" />
+	<SubTexture name="mark right0004" x="286" y="422" width="276" height="203" />
+	<SubTexture name="mark right0005" x="286" y="422" width="276" height="203" />
+	<SubTexture name="mark right alt0000" x="848" y="839" width="276" height="203" />
+	<SubTexture name="mark right alt0001" x="848" y="839" width="276" height="203" />
+	<SubTexture name="mark right alt0002" x="1129" y="839" width="276" height="203" />
+	<SubTexture name="mark right alt0003" x="1129" y="839" width="276" height="203" />
+	<SubTexture name="mark right alt0004" x="1129" y="839" width="276" height="203" />
+	<SubTexture name="mark right alt0005" x="1129" y="839" width="276" height="203" />
+	<SubTexture name="mark right miss0000" x="5" y="422" width="276" height="203" />
+	<SubTexture name="mark right miss0001" x="5" y="422" width="276" height="203" />
+	<SubTexture name="mark right miss0002" x="567" y="422" width="276" height="203" />
+	<SubTexture name="mark right miss0003" x="567" y="422" width="276" height="203" />
+	<SubTexture name="mark right miss0004" x="848" y="422" width="276" height="203" />
+	<SubTexture name="mark right miss0005" x="848" y="422" width="276" height="203" />
+	<SubTexture name="mark scream0000" x="1410" y="839" width="276" height="203" />
+	<SubTexture name="mark scream0001" x="1691" y="839" width="276" height="203" />
+	<SubTexture name="mark scream0002" x="5" y="1047" width="276" height="203" />
+	<SubTexture name="mark scream0003" x="286" y="1047" width="276" height="203" />
+	<SubTexture name="mark scream0004" x="567" y="1047" width="276" height="203" />
+	<SubTexture name="mark scream0005" x="848" y="1047" width="276" height="203" />
+	<SubTexture name="mark scream0006" x="1129" y="1047" width="276" height="203" />
+	<SubTexture name="mark scream0007" x="1410" y="1047" width="276" height="203" />
+	<SubTexture name="mark scream0008" x="1691" y="1047" width="276" height="203" />
+	<SubTexture name="mark scream0009" x="5" y="1256" width="276" height="203" />
+	<SubTexture name="mark scream0010" x="1129" y="1047" width="276" height="203" />
+	<SubTexture name="mark scream0011" x="1410" y="1047" width="276" height="203" />
+	<SubTexture name="mark scream0012" x="1691" y="1047" width="276" height="203" />
+	<SubTexture name="mark scream0013" x="5" y="1256" width="276" height="203" />
+	<SubTexture name="mark scream0014" x="1129" y="1047" width="276" height="203" />
+	<SubTexture name="mark scream0015" x="1410" y="1047" width="276" height="203" />
+	<SubTexture name="mark scream0016" x="1691" y="1047" width="276" height="203" />
+	<SubTexture name="mark scream0017" x="5" y="1256" width="276" height="203" />
+	<SubTexture name="mark scream0018" x="1129" y="1047" width="276" height="203" />
+	<SubTexture name="mark scream0019" x="1410" y="1047" width="276" height="203" />
+	<SubTexture name="mark scream0020" x="1691" y="1047" width="276" height="203" />
+	<SubTexture name="mark scream0021" x="286" y="1256" width="276" height="203" />
+	<SubTexture name="mark scream0022" x="567" y="1256" width="276" height="203" />
+	<SubTexture name="mark scream0023" x="848" y="1256" width="276" height="203" />
+	<SubTexture name="mark scream0024" x="848" y="1256" width="276" height="203" />
+	<SubTexture name="mark scream0025" x="1129" y="1256" width="276" height="203" />
+	<SubTexture name="mark scream0026" x="1129" y="1256" width="276" height="203" />
+	<SubTexture name="mark scream0027" x="1410" y="1256" width="276" height="203" />
+	<SubTexture name="mark scream0028" x="1410" y="1256" width="276" height="203" />
+	<SubTexture name="mark scream0029" x="1410" y="1256" width="276" height="203" />
+	<SubTexture name="mark scream0030" x="1410" y="1256" width="276" height="203" />
+	<SubTexture name="mark scream0031" x="1410" y="1256" width="276" height="203" />
+	<SubTexture name="mark up0000" x="1129" y="422" width="276" height="203" />
+	<SubTexture name="mark up0001" x="1129" y="422" width="276" height="203" />
+	<SubTexture name="mark up0002" x="1410" y="422" width="276" height="203" />
+	<SubTexture name="mark up0003" x="1410" y="422" width="276" height="203" />
+	<SubTexture name="mark up0004" x="1410" y="422" width="276" height="203" />
+	<SubTexture name="mark up0005" x="1410" y="422" width="276" height="203" />
+	<SubTexture name="mark up alt0000" x="1691" y="1256" width="276" height="203" />
+	<SubTexture name="mark up alt0001" x="1691" y="1256" width="276" height="203" />
+	<SubTexture name="mark up alt0002" x="5" y="1464" width="276" height="203" />
+	<SubTexture name="mark up alt0003" x="5" y="1464" width="276" height="203" />
+	<SubTexture name="mark up alt0004" x="5" y="1464" width="276" height="203" />
+	<SubTexture name="mark up alt0005" x="5" y="1464" width="276" height="203" />
+	<SubTexture name="mark up miss0000" x="1129" y="422" width="276" height="203" />
+	<SubTexture name="mark up miss0001" x="1129" y="422" width="276" height="203" />
+	<SubTexture name="mark up miss0002" x="1691" y="422" width="276" height="203" />
+	<SubTexture name="mark up miss0003" x="1691" y="422" width="276" height="203" />
+	<SubTexture name="mark up miss0004" x="5" y="630" width="276" height="203" />
+	<SubTexture name="mark up miss0005" x="5" y="630" width="276" height="203" />
+</TextureAtlas>
