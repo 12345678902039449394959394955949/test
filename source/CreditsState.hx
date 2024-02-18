@@ -81,6 +81,16 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color 
+			['Port'],
+			['Z-StickMing-Z', 'stick', 'recreation and ourpleHUB', 'https://youtube.com/@ZSMZ885?si=Bha6T7otKPUeEdRM', '808080'],
+			[''],
+			['Recreation de Bite'],
+			['Samudani3yo', 'sanu', 'Bite (q pro)', 'https://youtube.com/@Samudani3yo', 'DAA520'],
+			['Font HUB Ourple  zJosiz', 'zjosiz', 'pro X2', 'https://youtu.be/d3N5Nm9dfXQ?si=sljp8L3EMeYN3kpO', 'FF0000'],
+			['Ourple Guy', 'Purple', 'Mod Original', 'https://ourpleguy.neocities.org/', '800080'],
+			['IronDragon', 'Code Stars', 'https://gamebanana.com/mods/479687', '800080'],
+			['https://youtu.be/NsoZuV9DIms', '000000'],
+			[''],
 			['Android Port'],
 			['idklool', 'nothing', 'Hi I ported this again', 'https://youtube.com/@idklool121', 'FFFFFF'],
 			[''],
