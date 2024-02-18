@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Static.png">
+	
+	
+	<SubTexture name="Static0000" x="0" y="0" width="480" height="270" />
+	<SubTexture name="Static0001" x="480" y="0" width="480" height="270" />
+	<SubTexture name="Static0002" x="960" y="0" width="480" height="270" />
+	<SubTexture name="Static0003" x="1440" y="0" width="480" height="270" />
+	<SubTexture name="Static0004" x="0" y="270" width="480" height="270" />
+	<SubTexture name="Static0005" x="480" y="270" width="480" height="270" />
+	<SubTexture name="Static0006" x="960" y="270" width="480" height="270" />
+	<SubTexture name="Static0007" x="1440" y="270" width="480" height="270" />
+	<SubTexture name="Static0008" x="0" y="540" width="480" height="270" />
+	<SubTexture name="Static0009" x="480" y="540" width="480" height="270" />
+	<SubTexture name="Static0010" x="960" y="540" width="480" height="270" />
+	<SubTexture name="Static0011" x="1440" y="540" width="480" height="270" />
+	<SubTexture name="Static0012" x="0" y="810" width="480" height="270" />
+	<SubTexture name="Static0013" x="480" y="810" width="480" height="270" />
+</TextureAtlas>
