@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="freddyjump.png">
+	
+	
+	<SubTexture name="FredJUMPSCARE0000" x="5" y="5" width="269" height="228" frameX="-454" frameY="-494" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0001" x="279" y="5" width="661" height="510" frameX="-266" frameY="-220" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0002" x="946" y="5" width="819" height="653" frameX="-199" frameY="-75" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0003" x="946" y="5" width="819" height="653" frameX="-199" frameY="-75" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0004" x="1770" y="5" width="1045" height="689" frameX="-53" frameY="-46" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0005" x="1770" y="5" width="1045" height="689" frameX="-53" frameY="-46" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0006" x="2820" y="5" width="1105" height="731" frameX="0" frameY="-7" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0007" x="2820" y="5" width="1105" height="731" frameX="0" frameY="-7" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0008" x="5" y="741" width="1143" height="796" frameX="-5" frameY="-22" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0009" x="5" y="741" width="1143" height="796" frameX="-5" frameY="-22" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0010" x="1153" y="741" width="1085" height="781" frameX="-38" frameY="-25" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0011" x="1153" y="741" width="1085" height="781" frameX="-38" frameY="-25" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0012" x="2243" y="741" width="1062" height="806" frameX="-62" frameY="0" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0013" x="2243" y="741" width="1062" height="806" frameX="-62" frameY="0" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0014" x="5" y="1552" width="981" height="801" frameX="-94" frameY="-5" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0015" x="5" y="1552" width="981" height="801" frameX="-94" frameY="-5" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0016" x="991" y="1552" width="1085" height="787" frameX="-36" frameY="-19" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0017" x="991" y="1552" width="1085" height="787" frameX="-36" frameY="-19" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0018" x="2243" y="741" width="1062" height="806" frameX="-62" frameY="0" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0019" x="2243" y="741" width="1062" height="806" frameX="-62" frameY="0" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0020" x="5" y="1552" width="981" height="801" frameX="-94" frameY="-5" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0021" x="5" y="1552" width="981" height="801" frameX="-94" frameY="-5" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0022" x="991" y="1552" width="1085" height="787" frameX="-36" frameY="-19" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0023" x="991" y="1552" width="1085" height="787" frameX="-36" frameY="-19" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0024" x="2243" y="741" width="1062" height="806" frameX="-62" frameY="0" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0025" x="2243" y="741" width="1062" height="806" frameX="-62" frameY="0" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0026" x="5" y="1552" width="981" height="801" frameX="-94" frameY="-5" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0027" x="5" y="1552" width="981" height="801" frameX="-94" frameY="-5" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0028" x="991" y="1552" width="1085" height="787" frameX="-36" frameY="-19" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0029" x="991" y="1552" width="1085" height="787" frameX="-36" frameY="-19" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0030" x="2243" y="741" width="1062" height="806" frameX="-62" frameY="0" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0031" x="2243" y="741" width="1062" height="806" frameX="-62" frameY="0" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0032" x="5" y="1552" width="981" height="801" frameX="-94" frameY="-5" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0033" x="5" y="1552" width="981" height="801" frameX="-94" frameY="-5" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0034" x="991" y="1552" width="1085" height="787" frameX="-36" frameY="-19" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0035" x="991" y="1552" width="1085" height="787" frameX="-36" frameY="-19" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0036" x="2243" y="741" width="1062" height="806" frameX="-62" frameY="0" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0037" x="2243" y="741" width="1062" height="806" frameX="-62" frameY="0" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0038" x="5" y="1552" width="981" height="801" frameX="-94" frameY="-5" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0039" x="5" y="1552" width="981" height="801" frameX="-94" frameY="-5" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0040" x="991" y="1552" width="1085" height="787" frameX="-36" frameY="-19" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0041" x="991" y="1552" width="1085" height="787" frameX="-36" frameY="-19" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0042" x="2243" y="741" width="1062" height="806" frameX="-62" frameY="0" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0043" x="2243" y="741" width="1062" height="806" frameX="-62" frameY="0" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0044" x="5" y="1552" width="981" height="801" frameX="-94" frameY="-5" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0045" x="5" y="1552" width="981" height="801" frameX="-94" frameY="-5" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0046" x="991" y="1552" width="1085" height="787" frameX="-36" frameY="-19" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0047" x="991" y="1552" width="1085" height="787" frameX="-36" frameY="-19" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0048" x="2243" y="741" width="1062" height="806" frameX="-62" frameY="0" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0049" x="2243" y="741" width="1062" height="806" frameX="-62" frameY="0" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0050" x="5" y="1552" width="981" height="801" frameX="-94" frameY="-5" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0051" x="5" y="1552" width="981" height="801" frameX="-94" frameY="-5" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0052" x="991" y="1552" width="1085" height="787" frameX="-36" frameY="-19" frameWidth="1148" frameHeight="818" />
+	<SubTexture name="FredJUMPSCARE0053" x="991" y="1552" width="1085" height="787" frameX="-36" frameY="-19" frameWidth="1148" frameHeight="818" />
+</TextureAtlas>
